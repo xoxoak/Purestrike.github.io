@@ -5,5 +5,5 @@
   <!--link href="/Orbitron-VariableFont_wght.ttf" rel="stylesheet" type="text/css" /-->
 </head>
 <body>
-  <p style="font-family:orbitron;font-size:30px">This is basic text</p>
+  <p style="font-family:orbitron;font-size:30px">This Is My Website Where I Will Post Games Or Coding Scripts</p>
 </body>
