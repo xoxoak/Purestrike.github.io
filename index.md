@@ -8,7 +8,8 @@
   <p style="font-family:orbitron;font-size:30px">This Is My Website Where I Will Post Games Or Coding Scripts</p>
 </body>
 
-src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Games!
+
+<src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Games!"/>
 
 
 [Moto-3XM](https://purepro4561.github.io/Moto-3XM/)
