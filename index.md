@@ -9,4 +9,5 @@
 </body>
 
 [Moto-3XM](https://purepro4561.github.io/Moto-3XM/)
-[Stickman Hook](https://purepro4561.github.io/Stickman-Hook/)
+
+[Stickman Hook](https://purepro4561.github.io/stickman-hook/)
