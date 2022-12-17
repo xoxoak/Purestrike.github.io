@@ -8,8 +8,10 @@
   <p style="font-family:orbitron;font-size:30px">This Is My Website Where I Will Post Games Or Coding Scripts</p>
 </body>
 
-[Moto-3XM](https://purepro4561.github.io/Moto-3XM/)
+<a href="https://purepro4561.github.io/Moto-3XM/">
+  <img src="logo2.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
 
 <a href="https://purepro4561.github.io/stickman-hook/">
-  <img src="logo.png" alt="Logo" style="width: 80px; height: 80px;" />
+  <img src="logo.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
