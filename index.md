@@ -11,5 +11,5 @@
 [Moto-3XM](https://purepro4561.github.io/Moto-3XM/)
 
 <a href="https://purepro4561.github.io/stickman-hook/">
-  <img src="logo.png" alt="Logo" />
+  <img src="logo.png" alt="Logo" style="width: 80px; height: 80px;" />
 </a>
