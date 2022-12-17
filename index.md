@@ -11,7 +11,7 @@
 <a href="https://purepro4561.github.io/Moto-3XM/">
   <img src="logo2.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/stickman-hook/">
+<a href="https://purepro4561.github.io/Stickman-Hook/">
   <img src="logo.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://purepro4561.github.io/DogeMiner/">
