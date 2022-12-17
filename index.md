@@ -26,3 +26,6 @@
 <a href="https://purepro4561.github.io/Subway-Surfers/">
   <img src="logo6.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://purepro4561.github.io/Swerve/">
+  <img src="logo7.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
