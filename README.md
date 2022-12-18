@@ -1,6 +1,4 @@
-<body>
-  <p style="font-family:orbitron;font-size:30px">Pure Pro</p>
-</body>
+<h1>Pure Pro</h1>
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/purepro4561/purepro4561.github.io)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/purepro4561/purepro4561.github.io-replit)
