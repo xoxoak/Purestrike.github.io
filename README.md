@@ -1,8 +1,5 @@
-<head>
-  <link href="./Orbitron-VariableFont_wght.ttf" rel="stylesheet" type="text/css" />
-  </head>
 <body>
-<p style="color:black; font-weight:bold; font-family:orbitron">Pure Pro</p>
+  <p style="font-family:orbitron;font-size:30px">Pure Pro</p>
 </body>
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/purepro4561/purepro4561.github.io)
