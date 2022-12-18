@@ -59,3 +59,6 @@
 <a href="https://purepro4561.github.io/Idle-Breakout/">
   <img src="logo17.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://purepro4561.github.io/Fruitninja/">
+  <img src="logo18.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
