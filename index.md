@@ -74,3 +74,6 @@
 <a href="https://purepro4561.github.io/Tanuki-Sunset/">
   <img src="logo22.JPG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://purepro4561.github.io/OvO/">
+  <img src="logo23.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
