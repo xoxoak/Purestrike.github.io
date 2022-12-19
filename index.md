@@ -9,7 +9,7 @@
 </body>
 
 <a href="https://purepro4561.github.io/Moto-3XM/">
-  <img src="logo2.png" alt="Logo" style="width: 200px; height: 200px;" />
+  <img src="logo2.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://purepro4561.github.io/Stickman-Hook/">
   <img src="logo.png" alt="Logo" style="width: 200px; height: 200px;" />
@@ -33,7 +33,7 @@
   <img src="logo8.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://purepro4561.github.io/stickman-hook-halloween/">
-  <img src="logo9.png" alt="Logo" style="width: 200px; height: 200px;" />
+  <img src="logo9.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://purepro4561.github.io/CraftMine/">
   <img src="logo10.PNG" alt="Logo" style="width: 200px; height: 200px;" />
