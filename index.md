@@ -77,3 +77,6 @@
 <a href="https://purepro4561.github.io/OvO/">
   <img src="logo23.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="<a href="https://sore-worm-flip-flops.cyclic.app/">
+  <img src="logo24.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
