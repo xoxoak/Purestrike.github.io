@@ -86,6 +86,6 @@
 <a href="https://purepro4561.github.io/2048/">
   <img src="logo26.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://shutle.me/uv/ga.html#aHR0cHM6Ly9ub3cuZ2cvYXBwcy9kdmxvcGVyLzMxMzEvZ3Jhbm55LXR3by5odG1s">
+<a href="[https://shutle.me/uv/ga.html#aHR0cHM6Ly9ub3cuZ2cvYXBwcy9kdmxvcGVyLzMxMzEvZ3Jhbm55LXR3by5odG1s](https://shutle.me/uv/ga.html#aHR0cHM6Ly9ub3cuZ2cvcGxheS9kdmxvcGVyLzMxMzEvZ3Jhbm55LXR3bz9yZWZlcnJlcj1odHRwcyUzQSUyRiUyRm5vdy5nZyUyRmFwcHMlMkZkdmxvcGVyJTJGMzEzMSUyRmdyYW5ueS10d28uaHRtbCZ0b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKelpYTnphVzl1Vkhsd1pTSTZJa0ZFVGtWVUlpd2ljMlZ6YzJsdmJrbGtJam9pTURGSFRWbEVObE5DV2tnMFdWb3dVMUpDUlVReE5raFRNVTBpTENKdWIzZFZjMlZ5U1dRaU9pSXdNVWROV0ZFMlIwcFFVRmRET1RZeVVGbzFXRkJYTmxwQ1JDSXNJbkJoWTJ0aFoyVk9ZVzFsSWpvaVkyOXRMbVIyYkc5d1pYSXVaM0poYm01NVkyaGhjSFJsY25SM2J5SXNJbkIxWW14cGMyaGxjaUk2SW01dmQyZG5JaXdpWTJGdGNHRnBaMjVKWkNJNklsTlZiSEZEUTJoaFFXaFZTV2hCYUVObVUyYzVlbmt3YkNJc0ltRndjRWxrSWpvaU16RXpNU0lzSW5KbFpHbHlaV04wVlhKc0lqb2lhSFIwY0hNNkx5OXViM2N1WjJjdmNHeGhlUzlrZG14dmNHVnlMek14TXpFdlozSmhibTU1TFhSM2J5SXNJbWxoZENJNk1UWTNNVGMyTWpjMk5Td2laWGh3SWpveE5qY3hOelkyTXpZMWZRLnJqMmduU3QyRDFjTHU0YzN0RG5XRnpRR2hXYW11eFNscFowdE80SjhMYzQmc2Vzc2lvbklkPTAxR01ZRDZTQlpINFlaMFNSQkVEMTZIUzFN)">
   <img src="logo27.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
