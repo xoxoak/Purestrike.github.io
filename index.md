@@ -92,6 +92,6 @@
 <a href="https://purepro4561.github.io/Stick-Merge/">
   <img src="splash.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://now.gg/apps/roblox-corporation/5349/roblox.html">
+<a href="https://now.gg/play/roblox-corporation/5349/roblox">
   <img src="logo29.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
