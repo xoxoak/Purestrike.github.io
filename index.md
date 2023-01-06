@@ -79,14 +79,8 @@
 <a href="https://purepro4561.github.io/2048/">
   <img src="logo26.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://now.gg/play/dvloper/4807/granny">
-  <img src="logo27.png" alt="Logo" style="width: 200px; height: 200px;" />
-</a>
 <a href="https://purepro4561.github.io/Stick-Merge/">
   <img src="splash.png" alt="Logo" style="width: 200px; height: 200px;" />
-</a>
-<a href="https://now.gg/play/roblox-corporation/5349/roblox">
-  <img src="logo29.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://purepro4561.github.io/Basket-Bros/">
   <img src="logo30.JPG" alt="Logo" style="width: 200px; height: 200px;" />
