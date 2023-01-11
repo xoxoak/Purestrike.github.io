@@ -1,3 +1,8 @@
+  <head>
+    ...
+    <link rel="shortcut icon" type="image/png" href="favicon.ico">
+  </head>
+
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+And+Hello!+I+am+PurePro!;Coder+And+Game+Maker">
 
 
