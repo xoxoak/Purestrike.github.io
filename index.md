@@ -1,5 +1,8 @@
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+And+Hello!+I+am+PurePro!;Coder+And+Game+Maker">
 
+  <head>
+    <link rel="shortcut icon" type="image/png" href="favicon.ico">
+  </head>
 
 <a href="https://purepro4561.github.io/Moto-3XM/">
   <img src="logo2.jpg" alt="Logo" style="width: 200px; height: 200px;" />
