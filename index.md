@@ -91,6 +91,9 @@
 <a href="DriveMad">
   <img src="logo31.JPG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="Bitlife">
+  <img src="logo30.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
 <a href="CrossyRoad">
   <img src="logo31.PNG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
