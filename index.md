@@ -1,7 +1,5 @@
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+And+Hello!+I+am+PurePro!;Coder+And+Game+Maker">
 
-<h1>CAM THIS IS MY WEBSITE! :P</h1>
-
   <head>
     <link rel="shortcut icon" type="image/png" href="favicon.ico">
   </head>
