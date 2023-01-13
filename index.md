@@ -98,5 +98,5 @@
   <img src="logo31.PNG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="https://scratch.mit.edu/projects/787333484/fullscreen/">
-  <img src="costume1.png" alt="Logo" style="width: 240px; height: 180px;" />
+  <img src="cp.png" alt="Logo" style="width: 240px; height: 180px;" />
 </a>
