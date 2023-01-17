@@ -100,3 +100,6 @@
 <a href="https://scratch.mit.edu/projects/787333484/fullscreen/">
   <img src="cp.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="BallisticChickens">
+  <img src="logo32.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
