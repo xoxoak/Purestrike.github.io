@@ -103,7 +103,6 @@
 <a href="BallisticChickens">
   <img src="logo32.PNG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-</a>
 <a href="flappy-bird">
   <img src="logo33.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
