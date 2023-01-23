@@ -101,7 +101,7 @@
   <img src="cp.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="BallisticChickens">
-  <img src="logo32.png" alt="Logo" style="width: 200px; height: 200px;" />
+  <img src="logo32.PNG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 </a>
 <a href="flappy-bird">
