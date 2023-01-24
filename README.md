@@ -1,5 +1,7 @@
 <h1>Pure Pro</h1>
 
+<a href="https://github.com/PurePro4561/PurePro4561.github.io/LICENSE"><img src="https://img.shields.io/github/license/PurePro4561/PurePro4561.github.io.svg?style=flat" alt="License"></a>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=PurePro4561&label=Profile Visitors&color=001eff&style=flat" alt="PurePro4561" />
   
