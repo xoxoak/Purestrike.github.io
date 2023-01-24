@@ -114,3 +114,6 @@
 <a href="cookie-clicker">
   <img src="logo35.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://tinyurl.com/UGPS-CoolMathGames">
+  <img src="logo36.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
