@@ -114,6 +114,6 @@
 <a href="cookie-clicker">
   <img src="logo35.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://tinyurl.com/UGPS-CoolMathGames/">
+<a href="https://alternate-apps-onl.glitch.me/uv/service/hvtrs8%2F-wuw%2Ccmonmctjgcmgs%2Ccmm-/">
   <img src="logo36.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
