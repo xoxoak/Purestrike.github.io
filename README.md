@@ -1,5 +1,9 @@
 <h1>Pure Pro</h1>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=PurePro4561&label=Profile Visitors&color=001eff&style=flat" alt="PurePro4561" />
+  
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurePro4561%2FPurePro4561.github.io&count_bg=%2300EEFF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/purepro4561/purepro4561.github.io)
