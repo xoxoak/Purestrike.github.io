@@ -124,5 +124,5 @@
   <img src="logo38.JPG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="worlds-hardest-game">
-  <img src="logo39.png" alt="Logo" style="width: 200px; height: 200px;" />
+  <img src="logo39.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
