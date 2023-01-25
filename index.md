@@ -123,6 +123,6 @@
 <a href="https://ugps-apps-onl.glitch.me/uv/service/hvtrs8%2F-wuw%2Cmknkpna%7B.aoo%2Feaoe-bnuogk-poakgt-pna%7B">
   <img src="logo38.JPG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="worlds-hardest-game">
+<a href="worlds-hardest-game-2">
   <img src="logo39.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
