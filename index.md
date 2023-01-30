@@ -1,4 +1,3 @@
-![35D784E7-1BA8-42E2-B016-E24EFA7BDD55](https://user-images.githubusercontent.com/123680040/215593825-6a2f2d19-3142-4a51-a2ee-b9046860c357.jpeg)
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+And+Hello!+I+am+PurePro!;Coder+And+Game+Maker">
 
 <a href="https://docs.google.com/forms/d/166z5qJcBGLJGZQ_v3olCz8s-C4r2IBdPoQEWw3nuXFU/viewform?edit_requested=true"> Reqeust A Game </a>
