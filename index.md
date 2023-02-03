@@ -126,3 +126,6 @@
 <a href="worlds-hardest-game-2">
   <img src="logo39.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://ugps-admin.github.io">
+  <img src="hexa.svg" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
