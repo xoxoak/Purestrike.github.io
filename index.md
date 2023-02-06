@@ -129,3 +129,6 @@
 <a href="https://ugps-admin.github.io">
   <img src="hexa.svg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="aquapark-slides">
+  <img src="https://raw.githubusercontent.com/3kh0/3kh0-Assets/main/aquapark-slides/splash.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
