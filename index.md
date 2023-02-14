@@ -135,3 +135,6 @@
 <a href="https://purepro4561.github.io/3kh0-Assets/soundboard/">
   <img src="https://raw.githubusercontent.com/3kh0/3kh0-Assets/main/soundboard/img/mlg-favicon.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://purepro4561.github.io/3kh0-Assets/soccer-skills/">
+  <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/soccer-skills/splash.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
