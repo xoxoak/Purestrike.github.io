@@ -141,6 +141,6 @@
 <a href="https://purepro4561.github.io/3kh0-Assets/among-us/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/among-us/red.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="WG">
+<a href="WG.md">
   <img src="WG.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
