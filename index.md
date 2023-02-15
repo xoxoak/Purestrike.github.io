@@ -129,30 +129,30 @@
 <a href="https://ugps-admin.github.io">
   <img src="hexa.svg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/soundboard/">
+<a href="https://purepro4561.github.io/Game-Assets/soundboard/">
   <img src="https://raw.githubusercontent.com/3kh0/3kh0-Assets/main/soundboard/img/mlg-favicon.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/soccer-skills/">
+<a href="https://purepro4561.github.io/Game-Assets/soccer-skills/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/soccer-skills/splash.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/awesometanks2/">
+<a href="https://purepro4561.github.io/Game-Assets/awesometanks2/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/awesometanks2/awesometanks2.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/among-us/">
+<a href="https://purepro4561.github.io/Game-Assets/among-us/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/among-us/red.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="WG.html">
   <img src="WG.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/fnaw/">
+<a href="https://purepro4561.github.io/Game-Assets/fnaw/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/fnaw/splash.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/drift-hunters/">
+<a href="https://purepro4561.github.io/Game-Assets/drift-hunters/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/drift-hunters/drift-hunters.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/stack/">
+<a href="https://purepro4561.github.io/Game-Assets/stack/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/stack/stack.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://purepro4561.github.io/3kh0-Assets/slope/">
+<a href="https://purepro4561.github.io/Game-Assets/slope/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/slope/slope4.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
