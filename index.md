@@ -153,3 +153,6 @@
 <a href="https://purepro4561.github.io/3kh0-Assets/stack/">
   <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/stack/stack.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://purepro4561.github.io/3kh0-Assets/slope/">
+  <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/slope/slope4.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
