@@ -144,3 +144,6 @@
 <a href="WG.html">
   <img src="WG.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="purepro4561.github.io/3kh0-Assets/fnaw/">
+  <img src="https://raw.githubusercontent.com/PurePro4561/3kh0-Assets/main/fnaw/splash.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
