@@ -165,3 +165,6 @@
 <a href="https://purepro4561.github.io/Game-Assets/soccer-random/">
   <img src="https://raw.githubusercontent.com/PurePro4561/Game-Assets/main/soccer-random/splash.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://purepro4561.github.io/Game-Assets/draw-the-hill/">
+  <img src="https://raw.githubusercontent.com/PurePro4561/Game-Assets/main/draw-the-hill/icons/icon-512.png" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
