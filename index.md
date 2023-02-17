@@ -6,6 +6,9 @@
     <link rel="shortcut icon" type="image/png" href="favicon.ico">
   </head>
 
+<a href="https://purepro4561.fandom.com/">
+  <img src="B70CD5AE-DD53-48EA-B0D3-81E981154E80.png" alt="Logo" style="width: 800px; height: 200px;" />
+</a>
 <a href="https://purepro4561.github.io/Moto-3XM/">
   <img src="logo2.jpg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
