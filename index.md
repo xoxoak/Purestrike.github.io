@@ -3,6 +3,16 @@
 <a href="https://docs.google.com/forms/d/166z5qJcBGLJGZQ_v3olCz8s-C4r2IBdPoQEWw3nuXFU/viewform?edit_requested=true"> Reqeust A Game </a>
   
   <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PTRP9X445J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PTRP9X445J');
+</script>
+
     <link rel="shortcut icon" type="image/png" href="favicon.ico">
   </head>
 
