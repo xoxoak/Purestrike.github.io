@@ -120,7 +120,7 @@
 <a href="https://math-park.cyclic.app/">
   <img src="logo37.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="https://ugps-apps-onl.glitch.me/uv/service/hvtrs8%2F-wuw%2Cmknkpna%7B.aoo%2Feaoe-bnuogk-poakgt-pna%7B">
+<a href="rocket.html">
   <img src="logo38.JPG" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 <a href="worlds-hardest-game-2">
