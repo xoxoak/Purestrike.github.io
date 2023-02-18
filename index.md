@@ -186,6 +186,3 @@
 <a href="chat.html">
   <img src="998D8001-EA6F-4E14-A7EB-7514E87DDD7A.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="youtube.html">
-  <img src="64EB05CD-5DCF-4B26-A216-05619F3C4822.png" alt="Logo" style="width: 200px; height: 200px;" />
-</a>
