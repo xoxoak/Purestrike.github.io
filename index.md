@@ -183,6 +183,6 @@
 <a href="neal.html">
   <img src="03C06ADC-9043-46AD-919B-2C9BDC79E738.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-<a href="ban.html">
+<a href="chat.html">
   <img src="998D8001-EA6F-4E14-A7EB-7514E87DDD7A.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
