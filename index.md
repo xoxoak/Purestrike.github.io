@@ -194,4 +194,4 @@
 </a>
 
 
-[Privacy Policy](https://purepro4561.github.io/terms)
+[•Privacy Policy](https://purepro4561.github.io/terms)
