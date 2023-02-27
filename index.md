@@ -189,3 +189,6 @@
 <a href="roblox2.html">
   <img src="DB427967-07EB-4A7C-ACE2-B96BF98559F6.png" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="nowgg.html">
+  <img src="4B081271-0D3E-46D3-B599-AA2AC52263C9.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
