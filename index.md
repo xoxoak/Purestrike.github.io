@@ -1,5 +1,7 @@
-<iframe src="https://purepro4561.github.io/CT.html" name="myIFrame" style="border: solid #000000;"></iframe>
-
+<center>
+<iframe src="https://purepro4561.github.io/CT.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1200px" allowfullscreen></iframe>
+</center>
+  
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+And+Hello!+I+am+PurePro!;Coder+And+Game+Maker">
 
 <a href="https://docs.google.com/forms/d/166z5qJcBGLJGZQ_v3olCz8s-C4r2IBdPoQEWw3nuXFU/viewform?edit_requested=true"> Reqeust A Game </a>
