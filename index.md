@@ -1,5 +1,5 @@
 <center>
-<iframe src="https://purepro4561.github.io/CT.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1200px" allowfullscreen></iframe>
+<iframe src="https://purepro4561.github.io/CT.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="1000px" allowfullscreen></iframe>
 </center>
   
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+And+Hello!+I+am+PurePro!;Coder+And+Game+Maker">
