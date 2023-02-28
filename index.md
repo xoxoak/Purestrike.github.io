@@ -196,6 +196,9 @@
 <a href="nowgg.html">
   <img src="4B081271-0D3E-46D3-B599-AA2AC52263C9.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
+<a href="https://purepro4561.github.io/FNAF2">
+  <img src="4B081271-0D3E-46D3-B599-AA2AC52263C9.jpeg" alt="Logo" style="width: 200px; height: 200px;" />
+</a>
 
 
 [•Privacy Policy](https://purepro4561.github.io/terms)
