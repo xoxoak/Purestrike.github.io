@@ -1,4 +1,4 @@
-<iframe src="purepro4561.github.io/CT" name="myIFrame" style="border: solid #000000;"></iframe>
+<iframe src="https://purepro4561.github.io/CT.html" name="myIFrame" style="border: solid #000000;"></iframe>
 
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Welcome+And+Hello!+I+am+PurePro!;Coder+And+Game+Maker">
 
